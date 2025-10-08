@@ -1,0 +1,14 @@
+# Temporary files
+*.swp
+*.swo
+*~
+
+# Python/Environment
+__pycache__/
+*.py[cod]
+.env
+venv/
+env/
+
+# System files
+.DS_Store
